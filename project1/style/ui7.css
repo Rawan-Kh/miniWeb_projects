@@ -1,0 +1,17 @@
+.ui7 input{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 24px;
+    
+ }
+ .ui7 svg{
+     border-radius: 100%;
+     padding: 10px;
+     color: white;
+     width: 20px;
+     height: 20px;
+     margin-left: -40px;
+     margin-bottom: -15px;
+     background-color: rgb(235, 88, 113);
+     box-shadow: rgb(245 120 141) 4px 2px 12px 1px;
+ }

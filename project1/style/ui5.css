@@ -1,0 +1,19 @@
+.ui5{
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px 20px;
+    /* display: flex;
+    justify-content: space-around; */
+}
+.ui5 svg{
+    height: 20px;
+    width: 30px;
+    color: gray;
+    padding: 5px 10px;
+}
+.ui5 svg:hover{
+    color: rgb(235, 88, 113);
+    transform: translateY(-5px) ;
+    filter: drop-shadow(3px 3px 3px rgb(245 120 141));
+    /* text-shadow: 3px 6px 4px ; */
+}

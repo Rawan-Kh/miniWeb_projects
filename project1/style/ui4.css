@@ -1,0 +1,37 @@
+main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.ui4{
+    border-radius: 24px;
+    background-color: white;
+    text-align: center;
+    padding: 35px;
+}
+.ui4 .main-img{
+    height: 100px;
+}
+.ui4 h4{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.ui4 p{
+    color: grey;
+    margin-top: 5px;
+}
+.ui4 img{
+    border-radius: 100%;
+}
+hr{
+    width: 30px;
+}
+.ui4 .imgs-flex{
+    padding-top: 10px;
+}
+.ui4 .imgs-flex img{
+    border: 2px solid white;
+    height: 35px;
+    width: 35px;
+    margin-left: -15px;
+}
