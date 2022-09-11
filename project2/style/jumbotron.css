@@ -1,0 +1,43 @@
+.jumbotron{
+    border: solid rgb(235, 235, 235) 5px;
+    font-size: larger;
+   background-color:rgb(229, 245, 216);
+    padding: 60px;
+    margin: 60px;
+    border-radius: 24px;
+    height: 400px;
+}
+.jumbotron h4{ 
+    margin-bottom: 15px;
+}
+input{
+    margin-top: 10px;
+    width: 200px;
+border: solid gainsboro 2px;
+border-radius: 24px;
+padding: 10px;
+}
+/* .input{
+text-align: center!important;
+} */
+.search a{
+text-decoration: none;
+font-size: small;
+background-color: rgb(77, 168, 77);
+color: white;
+display: inline-block;
+padding: 10px;
+border-radius: 24px;
+margin-left: -65px;
+}
+label svg{
+color: gray;
+position: absolute;
+padding: 20px ;
+}
+.jumbotron .txt{
+position: absolute;
+top: 50%;
+transform: translate(0,-50%);
+margin: 0 20px;
+}

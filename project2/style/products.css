@@ -1,0 +1,56 @@
+.products .top{
+    justify-content: space-between;
+    margin: 40px 20px;
+  }
+
+  .products ul{
+    list-style: none;
+    flex-wrap: wrap;
+    margin: 15px 20px;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  .products ul li{
+    background-color: white;
+  border: 1px solid gainsboro;
+  border-radius: 15px;
+    padding: 10px 25px;
+    margin: 20px;
+    
+  }
+  .products ul li img{
+  height: 150px;
+  width: 150px;
+  padding: 5px;
+  }
+  .products ul li h5{
+  font-size: medium;
+  }
+  .products ul li p{
+  font-size: small;
+  margin: 5px 0;
+  color: gray;
+  }
+  .products ul li h6{
+    margin: 15px 0;
+  font-size: larger;
+  }
+
+  .custom-qty svg  {
+    padding: 5px;
+    color: rgb(101, 173, 101);
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+  }
+  .custom-qty p{
+    padding: 0 10px;
+  }
+  .product .bottom {
+    justify-content: space-between;
+  }
+  .product .bottom .bag{
+    background-color:  rgb(101, 173, 101);
+    color: white;
+    padding: 5px;
+    border-radius: 100%;
+  }

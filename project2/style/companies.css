@@ -1,0 +1,14 @@
+.companies ul{
+    justify-content: center;
+    padding: 45px 0;
+    flex-wrap: wrap;
+}
+.companies li{
+    list-style-type: none;
+    filter: grayscale(1);  
+   margin: 10px;       
+}
+.companies li img{
+    height: 70px;
+    width: 120px;
+}

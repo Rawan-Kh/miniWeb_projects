@@ -1,0 +1,25 @@
+footer{
+    padding: 20px;
+    /* background-color: rgb(56, 56, 56); */
+}
+footer .flex{
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.follow-us{
+    text-align: center;
+    padding: 20px;
+}
+.follow-us img{
+    padding-bottom: 25px;
+    width: 60px;
+    height: 60px;
+}
+.follow-us p ,.follow-us a{
+    color: gray;
+    text-decoration: none;
+}
+footer ul{
+margin: auto 0;
+list-style-type: none;
+}

@@ -1,0 +1,12 @@
+.products{
+    margin: 30px 10px;
+}
+.prod-bundle{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 24px;
+    background-color:rgb(229, 245, 216) ;
+}
+.bundle-header{
+    margin: 30px 10px;
+}

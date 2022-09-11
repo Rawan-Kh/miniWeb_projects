@@ -1,0 +1,36 @@
+.category{
+    margin: 10px 20px;
+}
+.category .top{
+    justify-content: space-between;
+}
+.category .top h4{
+    font-size: large;
+}
+.category .arrows svg{
+    background-color: cadetblue;
+    border-radius: 100%;
+    padding: 5px;
+    fill: white;
+    margin: 0 5px;      
+}
+.category ul{
+    justify-content: center;
+   list-style: none;
+   margin: 20px 5px;
+}
+.category ul li{
+    padding: 15px;
+    margin: 0 10px;
+    border-radius: 15px;
+    text-align: center;
+   background-color: rgb(245, 245, 245);
+}
+.category ul li svg{
+    height: 25px;
+    width: 20px;
+    margin-bottom: 5px;
+}
+.category ul li h6{
+    font-size: x-small;
+}

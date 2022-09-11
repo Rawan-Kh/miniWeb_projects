@@ -1,0 +1,36 @@
+.client-rev{
+    padding: 10px;
+    margin: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .client-rev h2{
+    text-align: center;
+  }
+  .client{
+    padding: 25px;
+    border-radius: 25px;
+    box-shadow: -1px 0px 7px 0px rgba(200, 202, 199, 0.5);
+    margin: 25px 20px;
+    width: 250px;
+  }
+  .client-rev .client .rate svg{
+    fill: rgb(255, 196, 0);
+    margin: 5px;
+  }
+  .client-rev .client .rate{
+    margin: 10px 0;
+  }
+  .client img{
+    border-radius: 100%;
+    height: 45x;
+    width: 45px;
+    padding-right:20px;
+  }
+  .client .info{
+    padding-top: 10px;
+  }
+  .client .info h6{
+    padding-top: 5px;
+    color: gray;
+  }

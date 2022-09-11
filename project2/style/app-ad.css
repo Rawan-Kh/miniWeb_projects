@@ -1,0 +1,29 @@
+.app-ad{
+    height: 200px;
+    background-color: rgb(229, 245, 216);
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px;
+   }
+   .app-ad img{
+    position: relative;
+   }
+   .app-ad .txt{
+    color: rgb(32, 32, 32);
+    padding: 15px;
+   }
+   .app-ad .txt-p{
+    margin: 20px 0;
+   }
+   .app-ad a{
+    font-size: small;
+    text-decoration: none;
+    color: rgb(221, 219, 219);
+    padding: 15px;
+    border-radius: 15px;
+    margin-right: 10px;
+    background-color: rgb(41, 40, 40);
+   }
+   .app-ad a svg{
+    padding: 0 5px;
+   }
